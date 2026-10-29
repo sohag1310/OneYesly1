@@ -1,0 +1,6 @@
+{
+  "name": "One Yesly",
+  "description": "Clean modern anime streaming platform with multi-season video playback, episode selection, instant search, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
